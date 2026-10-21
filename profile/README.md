@@ -11,6 +11,12 @@ Loir-et-Cher, France
 
 </div>
 
+## Philosophie
+
+Je crée pour servir les joueurs et les utilisateurs. Le cadre économique reste incontournable, mais il ne guide pas mes choix. Mon objectif est d'apporter du bonheur, avec des jeux qui stimulent, qui rappellent la nostalgie ou qui touchent émotionnellement, et avec des outils qui facilitent le quotidien.
+
+J'aime proposer des expériences nouvelles, ou rendre accessibles des jeux et applications du quotidien qui ne le sont pas encore.
+
 ## Ce qu'on fait
 
 - **Jeux sur mesure** avec Unity : PC, mobile, VR.
@@ -31,6 +37,8 @@ Loir-et-Cher, France
 | GGS-Core | Package Unity commun aux projets du studio |
 | Unasso | Gestion d'association, .NET 8 et Blazor Server. En développement |
 | Pockyt | Gestion de budget personnel, NestJS, Next.js et React Native. Bêta sur invitation |
+| La 11ème Lune | Une mère part, et le voyage commence. Jusqu'où ira-t-elle pour revenir ? En cours d'écriture |
+| Cities of Mist | Des cités qui se déplacent. Technologie ou nature : quel camp choisirez-vous ? En cours de conception |
 
 ## Conventions
 
