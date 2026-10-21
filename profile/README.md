@@ -18,13 +18,19 @@ Loir-et-Cher, France
 - **Sites et outils web** en C# avec Blazor.
 - **Projets maison** : nos propres jeux, avec une identité assumée, brute et organique.
 
-## Projets publics
+## Projets
 
 **[Tous les projets du studio, avec leur stack et leur stade](https://github.com/GorasGamesStudio/.github/blob/main/PROJETS.md)**
 
 | Projet | Description |
 |---|---|
 | [ResuME](https://github.com/GorasGamesStudio/ResuME) | Un CV que l'on traverse : mini RPG 2D pixel art en vue 3/4, Unity 6 |
+| K4rant : The Arcade Rift | Salle d'arcade sociale VR et PC, Unity 6, Netcode for GameObjects, OpenXR. Prototypage |
+| Commercial Street | Jeu de gestion commerciale multijoueur, Unity. Game design |
+| PartyHospital | Party game coopératif en ligne jusqu'à 8 joueurs, Unity 6. Game design |
+| GGS-Core | Package Unity commun aux projets du studio |
+| Unasso | Gestion d'association, .NET 8 et Blazor Server. En développement |
+| Pockyt | Gestion de budget personnel, NestJS, Next.js et React Native. Bêta sur invitation |
 
 ## Conventions
 
