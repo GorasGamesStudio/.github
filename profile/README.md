@@ -20,6 +20,8 @@ Loir-et-Cher, France
 
 ## Projets publics
 
+**[Tous les projets du studio, avec leur stack et leur stade](https://github.com/GorasGamesStudio/.github/blob/main/PROJETS.md)**
+
 | Projet | Description |
 |---|---|
 | [ResuME](https://github.com/GorasGamesStudio/ResuME) | Un CV que l'on traverse : mini RPG 2D pixel art en vue 3/4, Unity 6 |
