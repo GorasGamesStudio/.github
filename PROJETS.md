@@ -32,23 +32,18 @@ Le monde se partage entre amis, avec une mécanique sociale en plus de la gestio
 
 Stade : game design.
 
-## PartyHospital
+## Assisted Leaving
 
-Party game coopératif en ligne, à la première personne, jusqu'à 8 joueurs sur PC. Chacun tient un poste (accueil, consultation, analyses, traitement, chirurgie) et enchaîne des défis courts sous pression : enregistrer un patient, l'examiner, passer une radio, analyser un prélèvement, doser un médicament, opérer, faire payer.
+Anciennement PartyHospital. Jeu comique en ligne, à la première personne : quatre pensionnaires d'une maison de retraite tentent de s'en échapper ensemble, et le personnel ne compte pas les laisser faire.
 
-Principe central : un patient bien soigné part et ne revient pas ; mal soigné, il revient et repaie. Rater n'est pas perdre, c'est un modèle d'affaires.
-
-À la fin de chaque journée, l'hôpital reste ouvert s'il franchit l'un des deux seuils, qualité des soins ou rentabilité. Le milieu est la seule zone mortelle, et les seuils montent chaque jour, annoncés par le ministère.
-
-Quatre événements perturbent la journée : coupure de courant, panne du réseau pneumatique, inspection surprise, afflux de patients.
-
-Architecture : six familles de défis écrites une fois. Maladies, rôles et patients sont des données, ce qui permet d'ajouter du contenu sans réécrire le code.
+Chacun choisit en connaissance de cause un personnage avec une infirmité : l'un voit mal, l'autre entend mal, un troisième ne tient plus sur ses jambes. Aucun ne s'en sort seul, et la voix de proximité devient un outil autant qu'un gag. Lunettes, sonotone et déambulateur se trouvent, se perdent et se volent dans le bâtiment.
 
 - Moteur : Unity 6, URP
 - Réseau : Netcode for GameObjects
-- Prototype d'équilibrage : simulation C# déterministe d'une journée de jeu, sans moteur, avec replay HTML (.NET 8), dans un dépôt séparé
+- Plateforme : Windows, puis Linux et macOS
+- Prototype d'équilibrage : simulation C# déterministe, sans moteur, avec replay HTML (.NET 8), dans un dépôt séparé
 
-Stade : pré-production, design avancé ; prototype jouable non commencé.
+Stade : pré-production.
 
 ## GGS-Core
 
