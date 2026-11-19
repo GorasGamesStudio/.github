@@ -2,11 +2,12 @@
 
 # GORAS GAMES STUDIO
 
-**Studio indépendant de développement de jeux vidéo**
-Loir-et-Cher, France
+**Studio indépendant de jeux vidéo et d'applications interactives**
+Loir-et-Cher, France · depuis 2018
 
 [![Site](https://img.shields.io/badge/gorasgames.fr-1E4812?style=flat-square&logo=firefox&logoColor=white)](https://gorasgames.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1E4812?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/gorasgamesstudio)
+[![Eric Dovergne](https://img.shields.io/badge/Eric%20Dovergne-1E4812?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericdovergne)
 [![Discord](https://img.shields.io/badge/Discord-1E4812?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/zHDXT2JY3F)
 
 </div>
@@ -17,7 +18,7 @@ Je crée pour servir les joueurs et les utilisateurs. Le cadre économique reste
 
 J'aime proposer des expériences nouvelles, ou rendre accessibles des jeux et applications du quotidien qui ne le sont pas encore.
 
-## Ce qu'on fait
+## Ce que fait le studio
 
 - **Jeux sur mesure** avec Unity : PC, mobile, VR.
 - **Services en ligne** : API, comptes joueurs, scores et progression avec ASP.NET Core.
