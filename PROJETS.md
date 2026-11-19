@@ -1,6 +1,6 @@
 # Projets du studio
 
-## K4rant : The Arcade Rift
+## K4rant - Arcade Worlds
 
 Salle d'arcade sociale sur PC et VR (Steam, Meta Quest). Un lobby en forme de grand dôme où chaque borne géante ouvre sur un jeu, avec salons et mini-jeux de kermesse pour gagner des jetons.
 
